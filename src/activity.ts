@@ -207,7 +207,7 @@ export async function activity(previous: ActivityPayload = {}) {
 
 			state = {
 				...state,
-				buttons: [{ label: 'View Repository', url: repo }],
+				buttons: [{ label: 'Чекнуть репозиторчик', url: repo }],
 			};
 		}
 	}
