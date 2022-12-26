@@ -2,6 +2,7 @@
 
 > Update your discord status with a rich presence.
 
+123
 <div align="center">
 	<p>
 		<a href="https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode">
