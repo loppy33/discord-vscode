@@ -2,8 +2,6 @@
 
 > Update your discord status with a rich presence.
 
-12
-21
 <div align="center">
 	<p>
 		<a href="https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode">
